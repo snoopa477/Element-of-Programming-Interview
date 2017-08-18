@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4226FE2B1F476B4200F8FEA1"
-               BuildableName = "18.5 Clone a graph"
-               BlueprintName = "18.5 Clone a graph"
-               ReferencedContainer = "container:18.5 Clone a graph.xcodeproj">
+               BlueprintIdentifier = "4226FE3E1F478BA700F8FEA1"
+               BuildableName = "test"
+               BlueprintName = "test"
+               ReferencedContainer = "container:test.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4226FE2B1F476B4200F8FEA1"
-            BuildableName = "18.5 Clone a graph"
-            BlueprintName = "18.5 Clone a graph"
-            ReferencedContainer = "container:18.5 Clone a graph.xcodeproj">
+            BlueprintIdentifier = "4226FE3E1F478BA700F8FEA1"
+            BuildableName = "test"
+            BlueprintName = "test"
+            ReferencedContainer = "container:test.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4226FE2B1F476B4200F8FEA1"
-            BuildableName = "18.5 Clone a graph"
-            BlueprintName = "18.5 Clone a graph"
-            ReferencedContainer = "container:18.5 Clone a graph.xcodeproj">
+            BlueprintIdentifier = "4226FE3E1F478BA700F8FEA1"
+            BuildableName = "test"
+            BlueprintName = "test"
+            ReferencedContainer = "container:test.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4226FE2B1F476B4200F8FEA1"
-            BuildableName = "18.5 Clone a graph"
-            BlueprintName = "18.5 Clone a graph"
-            ReferencedContainer = "container:18.5 Clone a graph.xcodeproj">
+            BlueprintIdentifier = "4226FE3E1F478BA700F8FEA1"
+            BuildableName = "test"
+            BlueprintName = "test"
+            ReferencedContainer = "container:test.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

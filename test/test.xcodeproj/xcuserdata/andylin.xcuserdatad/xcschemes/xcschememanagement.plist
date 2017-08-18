@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>18.5 Clone a graph.xcscheme</key>
+		<key>test.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4226FE2B1F476B4200F8FEA1</key>
+		<key>4226FE3E1F478BA700F8FEA1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
